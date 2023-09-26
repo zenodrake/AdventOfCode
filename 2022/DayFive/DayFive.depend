@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1673226759 source:/home/wrowsers/CppStuff/AdventOfCode/2022/DayFive/main.cpp
+	"DayFive.h"
+
+1673409918 /home/wrowsers/CppStuff/AdventOfCode/2022/DayFive/DayFive.h
+	<stack>
+	<vector>
+	<string>
+
+1673570525 source:/home/wrowsers/CppStuff/AdventOfCode/2022/DayFive/DayFive.cpp
+	"DayFive.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+

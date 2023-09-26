@@ -1,0 +1,3 @@
+/home/wrowsers/CppStuff/AdventOfCode/2022/DaySix/CMakeFiles/main.dir
+/home/wrowsers/CppStuff/AdventOfCode/2022/DaySix/CMakeFiles/edit_cache.dir
+/home/wrowsers/CppStuff/AdventOfCode/2022/DaySix/CMakeFiles/rebuild_cache.dir
